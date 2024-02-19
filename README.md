@@ -1,2 +1,4 @@
 # Clarification
 A few clarifications for people who visit my profile. If anyone reads this.
+Unfortunately. At least temporarily, I've given up on reworking the examples from the book: x86-64 Assembly Language Programming with Ubuntu
+By Ed Jorgensen and language learning assembly x86_64. Learning assembly is very time-consuming. At least in my case, and I've been trying to learn Elm because it's a purely functional language on the Exercism platform, and I've been learning JavaScript. By dividing time and attention into several languages, I ended up wanting to work through the issues related to them as quickly as possible, which usually meant looking for a ready-made solution for other users or asking ChatGPT to generate a solution. Right now, I want to focus on learning how to write websites. I'd like it to be full-stack. We'll see how it turns out, or I'll try to write my own project in maybe GO language, but that's not easy.
